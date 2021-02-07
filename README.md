@@ -4,7 +4,7 @@
 
 ### Apostroph korrigieren
 
-Suchen nach: `~&apos;|~[|´|`|‘`
+Suchen nach: ```~&apos;|~[|´|`|‘```
 
 Ersetzen mit: `’`
 
@@ -146,7 +146,7 @@ Ersetzen mit: `–`
 
 Suchen nach: `(?&lt;=\d)(&apos;|\s)(?=\d{3})`
 
-Ersetzen mit: ``
+Ersetzen mit: 
 
 ### Zahlen gliedern 2 – Workaround Leerzeichen hinzufügen
 
