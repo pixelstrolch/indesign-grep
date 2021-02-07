@@ -1,6 +1,10 @@
-# Meine InDesign GREP-Schnipsel
+# Meine InDesign GREP-Befehle
 
-## Für flächendeckendes Suchen/Ersetzen geeignet
+Die folgenden GREP-Befehle können im Suchen/Ersetzen-Dialog im Reiter GREP verwendet werden. Die Befehle in Teil 2 eignen sich nicht für unkontrolliertes Ersetzen.
+
+Hast du einen Fehler gefunden? Welchen GREP-Befehl ist für deine Arbeit unverzichtbar und vermisst du hier? Ich freue mich sehr, wenn du es mir meldest.
+
+## Teil 1: Für flächendeckendes Suchen/Ersetzen geeignet
 
 ### Apostroph korrigieren
 
@@ -62,7 +66,7 @@ Suchen nach: `(?&lt;=\S)\n`
 
 Ersetzen mit: ` \n`
 
-## Für kontrolliertes Suchen/Ersetzen geeignet
+## Teil 2: Für kontrolliertes Suchen/Ersetzen geeignet
 
 ### Bindestrich (bis) zwischen zwei Ziffern durch Halbgeviert ersetzen
 
